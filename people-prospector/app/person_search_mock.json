@@ -1,0 +1,2349 @@
+{
+  "results": [
+      {
+          "linkedin_profile_url": "https://www.linkedin.com/in/mckenzie-spotts-03004543",
+          "profile": {
+              "public_identifier": "mckenzie-spotts-03004543",
+              "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/mckenzie-spotts-03004543/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240924%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240924T065027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f6092fe8b06f2f20942d124b22927d8855d325ae1a10677eec8b00fb634690cc",
+              "background_cover_image_url": null,
+              "first_name": "McKenzie",
+              "last_name": "Spotts",
+              "full_name": "McKenzie Spotts",
+              "follower_count": null,
+              "occupation": null,
+              "headline": "Board Treasurer at The School at Distelrath Farms",
+              "summary": "I work for the family business. It's my past, present, and future. It is a space for me to learn, play, fail, and build out my vision. It's a group effort with my parents, brother, co-workers, neighbors, friends, and those that I meet every day. I fell in love many years ago, and I plan on never looking back. I am looking to solve problems by using space and plants. Let's building something together. ",
+              "country": "US",
+              "country_full_name": null,
+              "city": "Indianapolis",
+              "state": "Indiana",
+              "experiences": [
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 5,
+                          "year": 2015
+                      },
+                      "ends_at": null,
+                      "company": "Spotts Garden Service",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "Changemaker - Gardener/Geeker/CFO",
+                      "description": null,
+                      "location": "Indianapolis, Indiana Area",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 30,
+                          "month": 4,
+                          "year": 2017
+                      },
+                      "ends_at": null,
+                      "company": "The School at Distelrath Farms",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "Active Duty Board Member",
+                      "description": null,
+                      "location": "Indianapolis, Indiana Area",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 30,
+                          "month": 6,
+                          "year": 2012
+                      },
+                      "ends_at": null,
+                      "company": "Cincinnati Bell",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/cincinnatibell",
+                      "company_facebook_profile_url": null,
+                      "title": "Part Time Tax Analyst",
+                      "description": null,
+                      "location": "Cincinnati, Ohio Area",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 5,
+                          "year": 2013
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 8,
+                          "year": 2013
+                      },
+                      "company": "Cincinnati Bell",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/cincinnatibell",
+                      "company_facebook_profile_url": null,
+                      "title": "Tax Analyst Co-op",
+                      "description": null,
+                      "location": "Downtown Cincinnati",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 3,
+                          "year": 2012
+                      },
+                      "ends_at": {
+                          "day": 30,
+                          "month": 4,
+                          "year": 2013
+                      },
+                      "company": "Cincinnati Bell",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/cincinnatibell",
+                      "company_facebook_profile_url": null,
+                      "title": "Internal Audit Co-op",
+                      "description": null,
+                      "location": null,
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 1,
+                          "year": 2012
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 3,
+                          "year": 2012
+                      },
+                      "company": "Subway",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/subway",
+                      "company_facebook_profile_url": null,
+                      "title": "Sandwich Artist",
+                      "description": null,
+                      "location": null,
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 30,
+                          "month": 6,
+                          "year": 2003
+                      },
+                      "ends_at": {
+                          "day": 30,
+                          "month": 9,
+                          "year": 2011
+                      },
+                      "company": "Spotts Garden Service",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "Professional Gardener",
+                      "description": null,
+                      "location": null,
+                      "logo_url": null
+                  }
+              ],
+              "education": [
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 2009
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 2014
+                      },
+                      "field_of_study": "Accounting",
+                      "degree_name": "Bachelor of Business Administration (BBA)",
+                      "school": "University of Cincinnati College of Business",
+                      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-cincinnati-college-of-business/",
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": null,
+                      "grade": null,
+                      "activities_and_societies": null
+                  },
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "field_of_study": "Business Administration; Accounting",
+                      "degree_name": "Bachelor",
+                      "school": "University of Cincinnati",
+                      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-cincinnati/",
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": null,
+                      "grade": null,
+                      "activities_and_societies": null
+                  }
+              ],
+              "languages": [],
+              "accomplishment_organisations": [],
+              "accomplishment_publications": [],
+              "accomplishment_honors_awards": [],
+              "accomplishment_patents": [],
+              "accomplishment_courses": [],
+              "accomplishment_projects": [
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "title": "UrbanVybe",
+                      "description": "Optimized for the urban dweller; it’s what we stand for. To us, its what guides our design and engineering of our products. Products that are created with the city traveler in mind. Whether you walk, bike, bus, ride the train or cruise in your car, or maybe all of them, UrbanVybes makes durable products that withstand the rigors of city traveling, while providing exceptional performance and longevity. From bluetooth portable speakers, to high-output, portable batteries, to Bluetooth headphones,...",
+                      "url": "http://UrbanVybe.com"
+                  },
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "title": "Hippywannabe",
+                      "description": "A branding project built around the fictional character Hippywannabe. A Hippywannabe is anyone looking for thier purpose in life. I, Mckenzie Spotts, am currently in that stage of trying to figure out what I am going to do for the rest of my life. Trying to figure out your future is neither easy nor quick. So instead of sitting around andf doing nothing I have used this confusion as a way to learn valuable skills. Skills including building a website, creating weekly blog posts, designing,...",
+                      "url": "http://hippywannabe.com/"
+                  },
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "title": "513Greens",
+                      "description": "513Greens is the brain child of two students from the University of Cincinnati. Designed around the concept of “farm to table”, 513Greens is currently designing an online food storyboard/social media platform to connect local food creators with consumers in their area. The idea is to make sustainable and responsible food more accessible to individuals. 513Greens does not support the use of GMOs and will not provide services surrounding those products.For inquiries please contact...",
+                      "url": "http://513greens.com"
+                  }
+              ],
+              "accomplishment_test_scores": [],
+              "volunteer_work": [
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 7,
+                          "year": 2012
+                      },
+                      "ends_at": null,
+                      "title": "Bunbury Festival Volunteer",
+                      "cause": null,
+                      "company": "Bunbury Festival LLC",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/bunbury-festival-llc",
+                      "description": null,
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 5,
+                          "year": 2015
+                      },
+                      "ends_at": null,
+                      "title": "Speaker coordinator/Greeter",
+                      "cause": "Economic Empowerment",
+                      "company": "Collision Conf",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/collision",
+                      "description": null,
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 30,
+                          "month": 11,
+                          "year": 2016
+                      },
+                      "ends_at": null,
+                      "title": "Presentation Specialist",
+                      "cause": "Education",
+                      "company": "Hustle Con",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/hustle-con",
+                      "description": null,
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 30,
+                          "month": 6,
+                          "year": 2017
+                      },
+                      "ends_at": null,
+                      "title": "Breakfast and Lunch coordinator",
+                      "cause": "Education",
+                      "company": "The Hustle",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/thehustle",
+                      "description": null,
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 7,
+                          "year": 2017
+                      },
+                      "ends_at": null,
+                      "title": "Meal server",
+                      "cause": "Education",
+                      "company": "HUSTLE",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/hustlestudio",
+                      "description": null,
+                      "logo_url": null
+                  }
+              ],
+              "certifications": [],
+              "connections": null,
+              "people_also_viewed": [],
+              "recommendations": [],
+              "activities": [],
+              "similarly_named_profiles": [],
+              "articles": [],
+              "groups": [],
+              "skills": []
+          },
+          "last_updated": "2020-12-22T23:43:08"
+      },
+      {
+          "linkedin_profile_url": "https://www.linkedin.com/in/bradbettinger",
+          "profile": {
+              "public_identifier": "bradbettinger",
+              "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/bradbettinger/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240924%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240924T065027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3e9df3f27430c46a4cd3fb3e6e8491916dce150a83eca7b2ea9885d8a592fd76",
+              "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/bradbettinger/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240924%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240924T065027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=eecfa2324363f0ae9039c14efe15166ea4ad943ddf131f902c9dd31cff299aca",
+              "first_name": "Brad Bettinger, CPA,",
+              "last_name": "MBA",
+              "full_name": "Brad Bettinger, CPA, MBA",
+              "follower_count": 684,
+              "occupation": "CFO / General Manager at Loud and Clear, Inc.",
+              "headline": "CFO / General Manager",
+              "summary": "Operations Manager with strong skills in accounting, finance, and sales with a background in professional services, membership, manufacturing, and food industries. Experience encompasses managing Fortune 500 franchise, conducting manufacturing financial audits to identify improvement opportunities, and developing and executing strategies to improve revenue streams. \n\nSuccesses include: led the team to achieve store customer service score 11% higher than corporate average; reduced annual expenses by $48,000; and increased sales by 8%. \n\nManagement:\n•\tOversight of average annual revenue - $3 to 3.5M – 70-75 employees including management staff of 8 with an average employee retention rate of 2 – 5 years.\n•\tManaged franchise and delivered increased sales year-over-year\n•\tAchieved store customer satisfaction score of 66% when the corporate average was 55%\n•\tLed store to a Corporate Score Card ranking of 13 out of 36 stores\n•\tSelected to represent McDonald’s at the worldwide convention - 2016\n\nAccounting/Finance:\n•\tReduced reporting effort by 16-man hours/month\n•\tEliminated need to use the line of credit and saved $48,000 annually in expenses\n•\tCollected $600,000 in aged receivables within six months\n•\tImproved receivables inflow from 9 months to 2 months\n•\tResolved invoicing/consignment issues saving $550,000\n•\tParticipated on the team conducting 25 audits within one year within budget\n•\tGrew stock portfolio during the recession and outperformed market\n\nSales/Marketing:\n•\tIncreased membership sales by 8% \n•\tIncreased membership from 500 to 650 in the first year\n•\tMaintained 75% of membership throughout the engagement \n•\tManaged 125 clients – achieving billable hours and gross margins\n•\tBuilt business relationships resulting in customer loyalty\n\nSKILLS\n•\tAccounting/Auditing\n•\tRelationship Building\n•\tMotivational Leadership Practices\n•\tOperations\n•\tProfit & Loss Principles\n•\tSales Strategy\n•\tSystems and Procedures",
+              "country": "US",
+              "country_full_name": "United States of America",
+              "city": "Cincinnati",
+              "state": "Ohio",
+              "experiences": [
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 7,
+                          "year": 2018
+                      },
+                      "ends_at": null,
+                      "company": "Loud and Clear, Inc.",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "CFO / General Manager",
+                      "description": null,
+                      "location": "Cincinnati, Ohio",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2004
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 2011
+                      },
+                      "company": "U.S. Stock Market, Equity and Options Markets",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "Portfolio Manager",
+                      "description": "Responsible for consistently growing value of personal portfolios while minimizing risk and maximizing gain.\n\n• Self-educated in the stock market as a short-term trader, specializing in both swing and position trading.  \n• Adhered to strict trading discipline while utilizing a variety of web-based resources, tools, and trading techniques under a variety of market conditions.\n• Have taught several others how to effectively manage their self-directed portfolios using fundamental and technical analysis and the system and routines I have implemented.\n            \n\n    \n    \n\n    \n        Show less",
+                      "location": "Cincinnati, OH",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 1997
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1998
+                      },
+                      "company": "Hempe Manufacturing Company, Inc.",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "Financial Controller",
+                      "description": "Manufacturer of hardware tools distributed to retailers such as Home Depot, Sears, and Wal-Mart.\n\n• Solely responsible for accounting operations, financial statement preparation and analysis, and various projects consistent with our goals of improving the integrity of financial information and reducing costs of an $18 million annual sales company.\n• Spearheaded successful accounts receivable collection of $600,000, thus reducing company’s line of credit by same amount and saving approximately $48,000 annually in interest expense.\n            \n\n    \n    \n\n    \n        Show less",
+                      "location": "New Berlin, WI (Milwaukee)",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 1993
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1996
+                      },
+                      "company": "Field Container Company, LP",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "Financial Controller",
+                      "description": "Field Container Company, LP; Headquarters – Elk Grove Village, IL\t1993-1996\nLargest privately-owned designer and manufacturer of folding cartons in the United States.\n\nController, Milwaukee Division; Milwaukee, WI\n\n• Responsible for maintaining accurate inventory records, evaluating job-closing performances, and overseeing all financial activity.  $15 million annual sales division\n• Focused on the profitability of individual jobs and evaluated overall efficiencies of a new operation to reduce waste by 6%, increase uptime, and improve pricing and scheduling of orders.\n\nAssistant Controller, Marion Division; Marion, OH:\n\n• Responsible for the supervision of the general ledger, financial statement preparation, and various special projects for Marion based operations and Indianapolis sales and marketing subsidiary -$42 million annual sales division.\n• Coordinated successful resolution to an invoicing and consignment warehousing issue with our largest board vendor saving the company over $550,000.\n            \n\n    \n    \n\n    \n        Show less",
+                      "location": "Marion, OH and Milwaukee, WI",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2011
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 2018
+                      },
+                      "company": "McDonald's Corporation - Cincinnati McOpco",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/mcdonald%27s-corporation",
+                      "company_facebook_profile_url": null,
+                      "title": "General Manager",
+                      "description": "My family was one of the original McDonald’s franchisees in South Central Michigan and Northeast Indiana.  Later returned to work for McDonald's Corporation as a general manager.  I was responsible for building the profitability of the restaurants by growing sales and guest counts while controlling food and labor costs.\n\n•\tBuilt both sales and guest counts through properly managing our systems and procedures to promote Quality, Service, and Cleanliness.  \n•\tFostered a pleasant work environment for our crew members.\n•\tMonitored store operations for proper quality, procedures, and cost efficiencies.\n•\tImplemented control routines and coach crew on procedures wherever necessary.  \n•\tRecruited new employees and manage training program for entire crew.\n•\tIdentified and developed potential candidates for management promotions.\n•\tManaged daily labor costs and advised other managers to do the same throughout the month.\n            \n\n    \n    \n\n    \n        Show less",
+                      "location": "Cincinnati, Ohio",
+                      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHWxquJ9PJxvw/company-logo_100_100/0/1552140114610?e=2147483647&v=beta&t=I7xqev9N6xHOQYRv_zjUpxl_qTJUj46kqNH_uZV-jbA"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2002
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 2003
+                      },
+                      "company": "Robert Half Finance & Accounting",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/robert-half-international",
+                      "company_facebook_profile_url": null,
+                      "title": "Account Executive",
+                      "description": "Leader in the specialized staffing industry for 55 years with over 300 offices worldwide focusing primarily on finance and accounting.\n\n• Responsible for increasing total active clients, billable hours, and gross margin.\n• Generated sales through developing relationships with approximately 125 clients.  Involved cold-calling using the phone, following up on leads, setting appointments, and providing superior customer service.\n• Negotiated terms with clients including bill rates and conversion fees while preserving appropriate mark ups.\n            \n\n    \n    \n\n    \n        Show less",
+                      "location": "Blue Ash, OH (Cincinnati)",
+                      "logo_url": "https://media.licdn.com/dms/image/D4E0BAQEuTevKELUKng/company-logo_100_100/0/1682923650219?e=2147483647&v=beta&t=oOGqIR_iVufMdXaswej-tlxuMANS3RzuGMSpnCIzKrM"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 1998
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 2002
+                      },
+                      "company": "NFIB - National Federation of Independent Business",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/nfib",
+                      "company_facebook_profile_url": null,
+                      "title": "Sales Territory Manager",
+                      "description": "Largest business lobby organization in the United States with over 600,000 members committed to protecting and promoting tax and regulation legislation favorable to small businesses at both the state and federal levels.\n\t\n• Responsible for developing territory in both actual member count and revenue produced.\n• Achieved sales through predominantly cold-calling small business owners in an effort to make emotional and logical sense out of becoming a member of NFIB today!\n• Increased territory sales 8% first year based on new business and renewal.\n            \n\n    \n    \n\n    \n        Show less",
+                      "location": "Milwaukee, WI; Nashville, TN; Cincinnati, OH",
+                      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGHeOvEyhgHsw/company-logo_100_100/0/1527693899103?e=2147483647&v=beta&t=fFhkYGt9hCmzx7DID8p3aBHnIdhPOpbsoXam039KUp0"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 1992
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1993
+                      },
+                      "company": "PricewaterhouseCoopers",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/pwc",
+                      "company_facebook_profile_url": null,
+                      "title": "Audit Associate (Coopers & Lybrand)",
+                      "description": "National public accounting firm providing audit and tax services for their clients.\n\t\t\nAudit Associate, Columbus Office; Columbus, OH\n\n• Responsible for working on a team to successfully complete 25 financial statement audits within budget while working closely with various client personnel.",
+                      "location": "Columbus, OH",
+                      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEMcCsKYUoUKw/company-logo_100_100/0/1658309646399?e=2147483647&v=beta&t=zWgPkgspgKPP3IXN_YfNHrhzGGD8WkZEZlDDuivh30s"
+                  }
+              ],
+              "education": [
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 1988
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1992
+                      },
+                      "field_of_study": "Accounting",
+                      "degree_name": "Bachelor of Business Administration (B.B.A.)",
+                      "school": "University of Notre Dame",
+                      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-notre-dame/",
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG6VvWuWHam-Q/company-logo_100_100/0/1621860696895?e=2147483647&v=beta&t=f4Rh-poQ9--8Fq78PbaRp_WLtz-1NbAQ8OT7aV_bXTY",
+                      "grade": "3.69 / 4.00",
+                      "activities_and_societies": "University of Notre Dame"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 1996
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1996
+                      },
+                      "field_of_study": "Business and Personal Communications",
+                      "degree_name": null,
+                      "school": "Dale Carnegie Training",
+                      "school_linkedin_profile_url": "https://www.linkedin.com/school/dale-carnegie-training/",
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFtHEq5fBrGHg/company-logo_100_100/0/1519856223187?e=2147483647&v=beta&t=30zyB7-qW-pW0ZOdCPkFRZAZ_ulfsY1lp11i1yMEVjo",
+                      "grade": null,
+                      "activities_and_societies": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2001
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 2002
+                      },
+                      "field_of_study": "Marketing, Real Estate",
+                      "degree_name": "Master of Business Administration (M.B.A.)",
+                      "school": "University of Cincinnati College of Business",
+                      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-cincinnati-college-of-business/",
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQE9Wc6eXl6Edg/company-logo_100_100/0/1519908500732?e=2147483647&v=beta&t=C7Sy_U4Op-nkSEdU1f1b4rp1gRejyFpyrnrlMvLuix4",
+                      "grade": "3.88 / 4.00",
+                      "activities_and_societies": null
+                  }
+              ],
+              "languages": [],
+              "accomplishment_organisations": [
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 10,
+                          "year": 2000
+                      },
+                      "ends_at": null,
+                      "org_name": "Accountancy Board of Ohio",
+                      "title": "-",
+                      "description": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2012
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 2015
+                      },
+                      "org_name": "Beech Acres Parenting Center",
+                      "title": "Licensed Foster Parent",
+                      "description": null
+                  }
+              ],
+              "accomplishment_publications": [],
+              "accomplishment_honors_awards": [],
+              "accomplishment_patents": [],
+              "accomplishment_courses": [
+                  {
+                      "name": "Client Focused Selling II",
+                      "number": "-"
+                  },
+                  {
+                      "name": "Dale Carnegie",
+                      "number": "-"
+                  },
+                  {
+                      "name": "Sandler Sales Success Profile",
+                      "number": "-"
+                  },
+                  {
+                      "name": "Territory Manager University",
+                      "number": "-"
+                  }
+              ],
+              "accomplishment_projects": [],
+              "accomplishment_test_scores": [],
+              "volunteer_work": [
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2012
+                      },
+                      "ends_at": null,
+                      "title": "Cub Scout Pack Committee Chair and Den Leader",
+                      "cause": "Children",
+                      "company": "Boy Scouts of America",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/boy-scouts-of-america",
+                      "description": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHR2kjg1G3Edg/company-logo_100_100/0/1560267937160?e=2147483647&v=beta&t=yM38JEFpUEXiOg4swbi7PZciN0DTA1fUs9y7da9KkIA"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2018
+                      },
+                      "ends_at": null,
+                      "title": "Mentor",
+                      "cause": "Economic Empowerment",
+                      "company": "Junior Achievement USA",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/junior-achievement-usa",
+                      "description": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C560BAQFpbYlluq9hPQ/company-logo_100_100/0/1651597748552?e=2147483647&v=beta&t=mZxSkvWkroq5bzFPmKQDOTjc6bMHVcwUT08Tb-F-c-w"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 6,
+                          "year": 2012
+                      },
+                      "ends_at": {
+                          "day": 30,
+                          "month": 11,
+                          "year": 2015
+                      },
+                      "title": "Foster Parent",
+                      "cause": "Children",
+                      "company": "Beech Acres Parenting Center",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/beech-acres-parenting-center",
+                      "description": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C560BAQGoPEqoz3_IMA/company-logo_100_100/0/1661175712294?e=2147483647&v=beta&t=3cIM1hb0hC8bCSzdhstIJVfjN3E5UuqCWFW6nLmk1Gw"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 1981
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1987
+                      },
+                      "title": "Eagle Scout",
+                      "cause": null,
+                      "company": "Boy Scouts of America",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/boy-scouts-of-america",
+                      "description": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQHR2kjg1G3Edg/company-logo_100_100/0/1560267937160?e=2147483647&v=beta&t=yM38JEFpUEXiOg4swbi7PZciN0DTA1fUs9y7da9KkIA"
+                  }
+              ],
+              "certifications": [
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 5,
+                          "year": 1995
+                      },
+                      "ends_at": null,
+                      "name": "Certified Public Accountant",
+                      "license_number": "# 42830  Active",
+                      "display_source": null,
+                      "authority": "Accountancy Board Of Ohio",
+                      "url": null
+                  }
+              ],
+              "connections": 500,
+              "people_also_viewed": [],
+              "recommendations": [],
+              "activities": [
+                  {
+                      "title": "Honored to present at LIBLEARNX in New Orleans with these amazing leaders, Larra Clark, Sara Jones and Xenia Hernández on Career Navigators: A…",
+                      "link": "https://www.linkedin.com/posts/natalieruppert_libraries-learn-liblearnx23-activity-7027080726948810752-0o24",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "Great leadership begins with trust.",
+                      "link": "https://www.linkedin.com/posts/leadership-first_great-leadership-begins-with-trust-activity-7027434194607730689-hBHn",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "Well, I have completed and passed the initial 60 hr class for my Real Estate license! Look out Nashville and Tennessee for that matter.. If you're…",
+                      "link": "https://www.linkedin.com/posts/mike-zimmerman-8a37bb149_well-i-have-completed-and-passed-the-initial-activity-7025907271234678784-SOo3",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "Agree?",
+                      "link": "https://www.linkedin.com/posts/patdimayuga_agree-activity-7020887859968557056-zt6T",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "Despite news of layoffs and hiring freezes in the tech world, demand for tech talent has continued to grow throughout the first half of this year…",
+                      "link": "https://www.linkedin.com/posts/dice_access-the-dice-tech-job-report-activity-6988980627689676800-2ev7",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "Michelle Scott found herself in a transitional period in her career path as an accounting professional. Michelle started attending the NKY…",
+                      "link": "https://www.linkedin.com/posts/kenton-county-public-library_nkyagcelebrations-jobsearchsuccess-kcpl-activity-6829082160373239810-XqsR",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "My family means the world to me and I love my job!I'm blessed to be able to prioritize them both in their own way.See in our video below how I've…",
+                      "link": "https://www.linkedin.com/posts/terrycoyne_growingcleveland-clevelandohio-commercialrealestate-activity-6767840066803953664-_zKH",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "We’re ready for McDonald's new Chicken Sandwiches! Are you? Get them today or at any McDonald’s tomorrow. New Crispy Chicken, Spicy Crispy Chicken…",
+                      "link": "https://www.linkedin.com/posts/michael-maynard-08b67096_were-ready-for-mcdonalds-new-chicken-sandwiches-activity-6770036893892575232-aGqJ",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "Our job as leaders is to encourage others. I know what you are thinking, ‘but Cory, I am tired. It has been a hard year.’I know.  I feel ya!…",
+                      "link": "https://www.linkedin.com/posts/carlsoncory_encouragement-romans-scripture-activity-6749310637001768960-2F48",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "We all have bigger goals for this upcoming year. 💪I know I do. The devil also knows I do.  So there will be headwinds.  There will be stress.…",
+                      "link": "https://www.linkedin.com/posts/carlsoncory_momentum-progress-go-activity-6752239637575667712-b1V-",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "Earlier today during the annual business meeting and board meeting of the Dan Beard Council, Boy Scouts of America we recognized our outgoing…",
+                      "link": "https://www.linkedin.com/posts/avzahn_earlier-today-during-the-annual-business-activity-6734631326521069569-SvlF",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "Trees are one of greatest allies against climate change and sapling pods help trees to take root and grow in arid and difficult environments.  I love…",
+                      "link": "https://www.linkedin.com/posts/leannetoler_trees-are-one-of-greatest-allies-against-activity-6729849147718995969-f3u_",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "Often times I think I control the outcome.  If I just send one more email. One more social post. One more podcast. One more hour. The more I…",
+                      "link": "https://www.linkedin.com/posts/carlsoncory_freedom-work-grow-activity-6734447522745483264-CRbB",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  },
+                  {
+                      "title": "She wore it all day - and wanted to wear it to bed! 🙂 Looking pretty in purple Sahara!! 💜Stay safe and stay strong! 🎃#RightsizeFitness…",
+                      "link": "https://www.linkedin.com/posts/rightsize-fitness_rightsizefitness-rightsize365-fitness-activity-6730576293374631936-kxA4",
+                      "activity_status": "Liked by Brad Bettinger, CPA, MBA"
+                  }
+              ],
+              "similarly_named_profiles": [],
+              "articles": [],
+              "groups": [],
+              "skills": []
+          },
+          "last_updated": "2023-05-10T20:20:50"
+      },
+      {
+          "linkedin_profile_url": "https://www.linkedin.com/in/mike-maher-67b12430",
+          "profile": {
+              "public_identifier": "mike-maher-67b12430",
+              "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/mike-maher-67b12430/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240924%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240924T065027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1038bbe2bc3d419aca74ed23d175b8df50f81c41e522a8c282cfd2440f70f85b",
+              "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/mike-maher-67b12430/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240924%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240924T065027Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8530f16ce0346810d24584e390f932fedb7f54e073a7dbfe970b3a9229c1eda3",
+              "first_name": "mike",
+              "last_name": "maher",
+              "full_name": "mike maher",
+              "follower_count": null,
+              "occupation": "Executive Vice President and Chief Operations Officer at T",
+              "headline": "Executive Vice President and Operations Director at Huntington Bank",
+              "summary": null,
+              "country": "US",
+              "country_full_name": "United States of America",
+              "city": "Detroit Metropolitan Area",
+              "state": null,
+              "experiences": [
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 3,
+                          "year": 2020
+                      },
+                      "ends_at": null,
+                      "company": "T",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "Executive Vice President and Chief Operations Officer",
+                      "description": null,
+                      "location": "Michigan, United States",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 2,
+                          "year": 2013
+                      },
+                      "ends_at": null,
+                      "company": "Talmer Bancorp, Inc.",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "Executive Managing Director-CFO Mortgage",
+                      "description": null,
+                      "location": null,
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 1997
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 2007
+                      },
+                      "company": "ABN AMRO",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "GSVP",
+                      "description": null,
+                      "location": null,
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 1985
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 2007
+                      },
+                      "company": "LaSalle bank",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "EVP",
+                      "description": null,
+                      "location": null,
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 7,
+                          "year": 2019
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 3,
+                          "year": 2020
+                      },
+                      "company": "TCF Bank",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/tcf-bank",
+                      "company_facebook_profile_url": null,
+                      "title": "Director",
+                      "description": "Director of Centralized Operations at TCF Bank",
+                      "location": "Michigan and Minnesota",
+                      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEL9ZNAsVdIyA/company-logo_100_100/0/1623244512516?e=2147483647&v=beta&t=nIj1nQwV81Au17h2B8udXVChgYXDkP-wOpzzFapbckI"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 7,
+                          "year": 2019
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 3,
+                          "year": 2020
+                      },
+                      "company": "TCF Bank",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/tcf-bank",
+                      "company_facebook_profile_url": null,
+                      "title": "Director of Centralized operations at TCF Bank",
+                      "description": null,
+                      "location": null,
+                      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEL9ZNAsVdIyA/company-logo_100_100/0/1623244512516?e=2147483647&v=beta&t=nIj1nQwV81Au17h2B8udXVChgYXDkP-wOpzzFapbckI"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2018
+                      },
+                      "ends_at": null,
+                      "company": "Chemical Bank",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/chemical-bank",
+                      "company_facebook_profile_url": null,
+                      "title": "1st VP---Municipal Banking Sales Advisor",
+                      "description": null,
+                      "location": "Greater Detroit Area",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2018
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 3,
+                          "year": 2020
+                      },
+                      "company": "Chemical Bank",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/chemical-bank",
+                      "company_facebook_profile_url": null,
+                      "title": "Commercial Segment Operations Manager",
+                      "description": null,
+                      "location": "Michigan",
+                      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEN7mTElAhBGg/company-logo_100_100/0/1587998280252?e=2147483647&v=beta&t=mvufOcp6ZqnLY1bTGakXCughxomQKUb9_ZyxQgVH0p0"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 11,
+                          "year": 2016
+                      },
+                      "ends_at": null,
+                      "company": "Chemical Bank",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/chemical-bank",
+                      "company_facebook_profile_url": null,
+                      "title": "SVP- Mortgage Sales Manager",
+                      "description": null,
+                      "location": "Troy, Michigan",
+                      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEN7mTElAhBGg/company-logo_100_100/0/1587998280252?e=2147483647&v=beta&t=mvufOcp6ZqnLY1bTGakXCughxomQKUb9_ZyxQgVH0p0"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 2,
+                          "year": 2011
+                      },
+                      "ends_at": {
+                          "day": 28,
+                          "month": 2,
+                          "year": 2013
+                      },
+                      "company": "Flagstar Bank",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/flagstar-bank",
+                      "company_facebook_profile_url": null,
+                      "title": "EVP",
+                      "description": null,
+                      "location": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C560BAQEnH5wmCLnRbg/company-logo_100_100/0/1519856034111?e=2147483647&v=beta&t=JLfSW80zb0uLGBaPT-t4P9i4jowIVd-1fB__OWeSVxs"
+                  }
+              ],
+              "education": [],
+              "languages": [],
+              "accomplishment_organisations": [],
+              "accomplishment_publications": [],
+              "accomplishment_honors_awards": [],
+              "accomplishment_patents": [],
+              "accomplishment_courses": [],
+              "accomplishment_projects": [],
+              "accomplishment_test_scores": [],
+              "volunteer_work": [],
+              "certifications": [],
+              "connections": 500,
+              "people_also_viewed": [
+                  {
+                      "link": "https://www.linkedin.com/in/andrea-oconnor-76b483157",
+                      "name": "Andrea OConnor",
+                      "summary": "Steel Receiving at Target Steel",
+                      "location": "Detroit Metropolitan Area"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jessica-johnson-2796a376",
+                      "name": "Jessica Johnson",
+                      "summary": "Process Improvement Analyst at Homepoint",
+                      "location": "Ann Arbor, MI"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/marcus-bruce-b817479",
+                      "name": "Marcus Bruce",
+                      "summary": "Information Technology Desktop Support Technician at Homepoint",
+                      "location": "Dallas-Fort Worth Metroplex"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/kyle-spink-597344182",
+                      "name": "Kyle Spink",
+                      "summary": "Sales Representative for Target Steel and Target Metal Blanking",
+                      "location": "Flat Rock, MI"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jennifer-villemure-5b4b0b98",
+                      "name": "Jennifer Villemure",
+                      "summary": "Manager, Portfolio Loan Officers, Officer at Level One Bank",
+                      "location": "Dearborn, MI"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/lizette-rodriguez",
+                      "name": "Lizette Rodriguez",
+                      "summary": "Mortgage Closer for Home point financial",
+                      "location": "Orlando, FL"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jerome-younger-182a301a9",
+                      "name": "Jerome Younger",
+                      "summary": "Mortgage Loan Processor at Mr. Cooper #WeAreMrCooper",
+                      "location": "Dallas, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jamiehousewright5102",
+                      "name": "Jamie Hodder",
+                      "summary": "Senior Processor at Home Point Financial",
+                      "location": "Ypsilanti, MI"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/imelda-garcia-43152638",
+                      "name": "Imelda Garcia",
+                      "summary": "Mortgage Loan Officer at Home Point Financial                            NMLS#1481561",
+                      "location": "Dallas-Fort Worth Metroplex"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/caitlin-rowe-248393137",
+                      "name": "Caitlin Rowe",
+                      "summary": "Account Specialist at MJS Packaging",
+                      "location": "Ann Arbor, MI"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/wednesday-stodghill-a6b6a775",
+                      "name": "Wednesday Stodghill",
+                      "summary": "Team Leader at Home Point Financial",
+                      "location": "Crowley, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/michaelpotter3",
+                      "name": "Michael Potter",
+                      "summary": "Senior Director - Business Operations at Home Point Financial Corporation",
+                      "location": "Ann Arbor, MI"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jessica-perry-bb619235",
+                      "name": "Jessica Perry",
+                      "summary": "Senior Director- Business Transformation  at Home Point Financial NMLS# 1488212",
+                      "location": "Indianapolis, IN"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/tylerborland",
+                      "name": "Tyler Borland",
+                      "summary": "Managing Director- Loan Coordination at Homepoint",
+                      "location": "Fort Mill, SC"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/tammy-anderson-a68a9824",
+                      "name": "Tammy Anderson",
+                      "summary": "Senior Director - Closing Manager at Home Point",
+                      "location": "Walled Lake, MI"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/devinn-armstrong-5b5395214",
+                      "name": "Devinn Armstrong",
+                      "summary": "Mortgage Loan Closer at Angel Oak",
+                      "location": "McKinney, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/winn-shavell-61a8a885",
+                      "name": "Winn Shavell",
+                      "summary": "Default Counselor at Homepoint",
+                      "location": "Dallas, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/doug-cooper",
+                      "name": "Doug Cooper",
+                      "summary": "Chief Lending Officer at DFCU Financial",
+                      "location": "United States"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/joe-magnelli",
+                      "name": "Joseph Magnelli",
+                      "summary": "Branch Manager at Wells Fargo Home Mortgage - NMLSR ID 363231",
+                      "location": "Greater Chicago Area"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/james-p-maher-jd-cssc-414b1336",
+                      "name": "James P. Maher, JD, CSSC",
+                      "summary": "Financial Advisor at Maher Financial Group Inc",
+                      "location": null
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/elizabeth-rimero-405875230",
+                      "name": "Elizabeth Rimero",
+                      "summary": "Senior Loan Processor at Homepoint",
+                      "location": null
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/justin-selva-15871b225",
+                      "name": "Justin Selva",
+                      "summary": "Student at Oakland Community College",
+                      "location": null
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/mary-fowlie-83854510",
+                      "name": "Mary Fowlie",
+                      "summary": "President at Compliance Results Associates PLLC",
+                      "location": null
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/judyfehlner",
+                      "name": "Judy Fehlner",
+                      "summary": "Retired!!!",
+                      "location": null
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/krishaun-harris-88814790",
+                      "name": "Krishaun Harris",
+                      "summary": "Business Owner",
+                      "location": null
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/lee-shubert-648919134",
+                      "name": "Lee Shubert",
+                      "summary": "Internal Auditor Audit Specialist at United Wholesale Mortgage",
+                      "location": null
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/bill-bowers-291a0014",
+                      "name": "Bill Bowers",
+                      "summary": "Assistant Librarian at Shook, Hardy & Bacon, LLP",
+                      "location": null
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/darlene-wasilewski-2632927",
+                      "name": "Darlene Wasilewski",
+                      "summary": "Director at Fifth Third Bank",
+                      "location": null
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/erin-s-palmer",
+                      "name": "Erin Palmer",
+                      "summary": "CEO at Blue Phoenix Management Advisors",
+                      "location": null
+                  }
+              ],
+              "recommendations": [
+                  "Jason Dufner\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          Mike was a pleasure to work with at Flagstar.  I had the opportunity to learn from Mike on strategic mortgage projects, operational restructuring initiatives, and asset sales. Mike’s rare combination of finance expertise with a broad mortgage and banking background is a remarkable skill that I greatly admire..",
+                  "Kevin Corbin\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          Mike was a very focused and results oriented manager.  He brought sound business judgment to complex legal issues, particularly those issues involving litigation.  His understanding of the mortgage industry and his risk management skills were greatly appreciated by me as counsel for our institution."
+              ],
+              "activities": [],
+              "similarly_named_profiles": [
+                  {
+                      "name": "Mike Maher",
+                      "link": "https://uk.linkedin.com/in/mike-maher-44048329",
+                      "summary": "Senior Best Practice Manager at LV= (Previously L&G)",
+                      "location": "Greater Oxford Area"
+                  },
+                  {
+                      "name": "Mike Maher",
+                      "link": "https://ca.linkedin.com/in/mike-maher-36b6993b",
+                      "summary": "Owner, Maher Construction",
+                      "location": "Almonte, ON"
+                  },
+                  {
+                      "name": "Mike Maher",
+                      "link": "https://uk.linkedin.com/in/mikemaherturftrax",
+                      "summary": "Supplying data services to global sports markets to enable better performance & safety! | MD @ TurfTrax",
+                      "location": "Peterborough"
+                  },
+                  {
+                      "name": "Mike Maher",
+                      "link": "https://www.linkedin.com/in/mike-maher-9b898627",
+                      "summary": "Owner, Maher Engineering Compnay",
+                      "location": "Des Plaines, IL"
+                  },
+                  {
+                      "name": "Mike Maher",
+                      "link": "https://www.linkedin.com/in/mike-maher-a315895",
+                      "summary": "Digital Art Director  at DXL Group",
+                      "location": "Millis, MA"
+                  }
+              ],
+              "articles": [],
+              "groups": [],
+              "skills": []
+          },
+          "last_updated": "2022-12-12T12:54:34"
+      },
+      {
+          "linkedin_profile_url": "https://www.linkedin.com/in/katyasinghcpa",
+          "profile": {
+              "public_identifier": "katyasinghcpa",
+              "profile_pic_url": null,
+              "background_cover_image_url": null,
+              "first_name": "Katya",
+              "last_name": "S.",
+              "full_name": "Katya S.",
+              "follower_count": null,
+              "occupation": "Corporate Controller | CFO at CBSL Transportation Services, Inc.",
+              "headline": "CFO",
+              "summary": "I am a highly qualified and results driven financial executive with over several years of successful business experience. I have a proven track record for delivering positive results while reducing expenses, building strong teams, Accounting and developing strategic initiatives that improve operations, profitability, cost containment and process efficiency; all within budget parameters. With a proven ability to effectively plan, coordinate and meet deadlines under pressure in a fast-paced environment",
+              "country": "US",
+              "country_full_name": "United States of America",
+              "city": "Greater Houston",
+              "state": null,
+              "experiences": [
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 10,
+                          "year": 2018
+                      },
+                      "ends_at": null,
+                      "company": "CBSL Transportation Services, Inc.",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/cbsl-transportation-svc/",
+                      "company_facebook_profile_url": null,
+                      "title": "Corporate Controller | CFO",
+                      "description": null,
+                      "location": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEju--ozcTNCg/company-logo_400_400/0/1632493375770?e=1678924800&v=beta&t=ILzy7d6fj0tkXV0xW-oWlxuygDLCN-fClTvH2Wx77mw"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 7,
+                          "year": 2018
+                      },
+                      "ends_at": {
+                          "day": 1,
+                          "month": 10,
+                          "year": 2018
+                      },
+                      "company": "In transition",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "Financial Consultant ",
+                      "description": null,
+                      "location": "Houston, Texas Area",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2010
+                      },
+                      "ends_at": {
+                          "day": 1,
+                          "month": 8,
+                          "year": 2011
+                      },
+                      "company": "Hellenic Marine LLC",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "Full Charge Accountant ",
+                      "description": null,
+                      "location": "Houston, Texas Area",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 3,
+                          "year": 2007
+                      },
+                      "ends_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2010
+                      },
+                      "company": "Optimal Wireless LLC ",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "Regional Manager ",
+                      "description": null,
+                      "location": "Houston, Texas Area",
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2011
+                      },
+                      "ends_at": {
+                          "day": 1,
+                          "month": 6,
+                          "year": 2018
+                      },
+                      "company": "Tucker Energy Services",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/tucker-energy-services-ltd/",
+                      "company_facebook_profile_url": null,
+                      "title": "US Corporate Controller",
+                      "description": null,
+                      "location": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG-LhrWnxTMbw/company-logo_400_400/0/1519881408082?e=1678924800&v=beta&t=Gzmip1uonTAZISQvssgU_sGff-oCNIbi_jSa4PVYXXM"
+                  }
+              ],
+              "education": [
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "field_of_study": null,
+                      "degree_name": "Master of Business Administration - MBA",
+                      "school": "LSU Shreveport",
+                      "school_linkedin_profile_url": null,
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C510BAQH0zLXf1smSGw/company-logo_400_400/0/1519856568247?e=1678924800&v=beta&t=Upqnp6CPUD6DhfuKGWViUesqmyZl2H_t6eI6Ompi9eM",
+                      "grade": null,
+                      "activities_and_societies": null
+                  },
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "field_of_study": "BBA - Accounting ",
+                      "degree_name": "Bachelor's degree",
+                      "school": "University of Houston-Downtown",
+                      "school_linkedin_profile_url": null,
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C560BAQFW20yZcgS3Ag/company-logo_400_400/0/1573489728600?e=1678924800&v=beta&t=tu87x32ZCiOG7SBS10Cy8nyxky4cLfYoke-KQad89Ao",
+                      "grade": null,
+                      "activities_and_societies": null
+                  }
+              ],
+              "languages": [
+                  "English",
+                  "Spanish"
+              ],
+              "accomplishment_organisations": [],
+              "accomplishment_publications": [],
+              "accomplishment_honors_awards": [],
+              "accomplishment_patents": [],
+              "accomplishment_courses": [],
+              "accomplishment_projects": [],
+              "accomplishment_test_scores": [],
+              "volunteer_work": [],
+              "certifications": [
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "name": "Certified Public Accountant ",
+                      "license_number": null,
+                      "display_source": null,
+                      "authority": null,
+                      "url": null
+                  }
+              ],
+              "connections": null,
+              "people_also_viewed": [],
+              "recommendations": [],
+              "activities": [],
+              "similarly_named_profiles": [],
+              "articles": [],
+              "groups": [],
+              "skills": []
+          },
+          "last_updated": "2022-12-15T03:19:22"
+      },
+      {
+          "linkedin_profile_url": "https://www.linkedin.com/in/john-janczak-26947012",
+          "profile": {
+              "public_identifier": "john-janczak-26947012",
+              "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/john-janczak-26947012/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240924%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240924T065028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8b9e1a5cc139e12497e1e709ce0f5a794984ba12946eb330e24bbb2e7e91d01f",
+              "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/john-janczak-26947012/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240924%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240924T065028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6d26ae97c0b3913d1734b00b74c1339190cfb5f4ee4628456f8950f871244e03",
+              "first_name": "John",
+              "last_name": "Janczak",
+              "full_name": "John Janczak",
+              "follower_count": null,
+              "occupation": "CFO at MMD Holdings",
+              "headline": "CFO at MMD Holdings",
+              "summary": null,
+              "country": "US",
+              "country_full_name": "United States of America",
+              "city": "Carrollton",
+              "state": "Texas",
+              "experiences": [
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "company": "MMD Holdings",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "CFO",
+                      "description": null,
+                      "location": null,
+                      "logo_url": null
+                  }
+              ],
+              "education": [],
+              "languages": [],
+              "accomplishment_organisations": [],
+              "accomplishment_publications": [],
+              "accomplishment_honors_awards": [],
+              "accomplishment_patents": [],
+              "accomplishment_courses": [],
+              "accomplishment_projects": [],
+              "accomplishment_test_scores": [],
+              "volunteer_work": [],
+              "certifications": [],
+              "connections": 1,
+              "people_also_viewed": [
+                  {
+                      "link": "https://www.linkedin.com/in/ben-hackman-649435120",
+                      "name": "Ben Hackman",
+                      "summary": "Assistant Service Manager at Select Restaurants, Inc.",
+                      "location": "Greater Chicago Area"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/eddie-mark-0b2855197",
+                      "name": "Eddie Mark",
+                      "summary": "Financial Analyst at UL",
+                      "location": "Greater Chicago Area"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/kenan-medzikovic-51427a195",
+                      "name": "Kenan Medzikovic",
+                      "summary": "Owner at Kenan Express Inc.",
+                      "location": "Greater Chicago Area"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/truth-be-told-on-wicked-systems-and-oppression-20a536165",
+                      "name": "TRUTH BE TOLD on Wicked Systems and OPPRESSION",
+                      "summary": "Advocate against abusive personnel in society at ThePeoplesWallStreet.",
+                      "location": "Greater New Orleans Region"
+                  },
+                  {
+                      "link": "https://fr.linkedin.com/in/mehdi-moosavi-0154b8192",
+                      "name": "Mehdi MOOSAVI",
+                      "summary": "Director",
+                      "location": "France"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jerome-piaskowy",
+                      "name": "Jerome Piaskowy III",
+                      "summary": "Motivated and Innovative Professional",
+                      "location": "South Elgin, IL"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/steve-johnson-72570655",
+                      "name": "Steve Johnson",
+                      "summary": "Supply Chain Analyst at DowellGroup-MPG, LLC",
+                      "location": "Bristol, WI"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/alexander-m-kraus",
+                      "name": "Alex K.",
+                      "summary": "HR Business Partner & Compensation Analyst at Rittal North America LLC & EPLAN Software & Services LLC",
+                      "location": "Greater Chicago Area"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/david-f-arndt",
+                      "name": "David Arndt",
+                      "summary": "Content Production, Writer & Brand Building | Local, Product, Business & Enterprise SEO | Blog/Podcast Creation & Expansion | Webflow Website Design & Optimization",
+                      "location": "Greater Chicago Area"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/bettyjonichols",
+                      "name": "Betty Jo Nichols",
+                      "summary": "Culinary professional with the ability to adapt to high-paced environments. Cook👩🏽‍🍳Eat🍽and Live🤾🏽‍♀️",
+                      "location": "Greater Chicago Area"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/newson-trinh-87435313",
+                      "name": "Newson Trinh",
+                      "summary": "CFO at Tokai International Holdings, Inc.",
+                      "location": "San Gabriel, CA"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/bret-holland-3951815",
+                      "name": "Bret Holland",
+                      "summary": "CFO at ActivePure Technologies, LLC",
+                      "location": "Dallas-Fort Worth Metroplex"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/terry-o-37b0754",
+                      "name": "Terry O.",
+                      "summary": "VP Finance & Accounting",
+                      "location": "Lake Zurich, IL"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/christopher-kodosky-b76b3a6",
+                      "name": "Christopher Kodosky",
+                      "summary": "Chief Financial Officer (CFO)",
+                      "location": "Elmhurst, IL"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/joe-sennott-a19a8313a",
+                      "name": "Joe Sennott",
+                      "summary": "Accountant",
+                      "location": "Seal Beach, CA"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/barry-slifstein-b395404",
+                      "name": "Barry Slifstein",
+                      "summary": "CFO at DAP Inc",
+                      "location": "Baltimore, MD"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jose-zuniga-804465160",
+                      "name": "Jose Zuniga",
+                      "summary": "CFO at Dollar Shave Club",
+                      "location": "Los Angeles, CA"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jason-knudson-4b34199",
+                      "name": "Jason Knudson",
+                      "summary": "Financial VP at Trinidad Benham",
+                      "location": "Littleton, CO"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/dana-everett-aba009aa",
+                      "name": "Dana Everett",
+                      "summary": "--",
+                      "location": "United States"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jim-wilson-62596510",
+                      "name": "Jim Wilson",
+                      "summary": "CFO at Sleep Products, Inc",
+                      "location": "Louisville, KY"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/elizabeth-hoffmann-3b2b4839",
+                      "name": "Elizabeth Hoffmann",
+                      "summary": "Senior Manager at Work Sharp",
+                      "location": "Ashland, OR"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jerry-holland-ba71b62a",
+                      "name": "Jerry Holland",
+                      "summary": "CFO at Goldbug",
+                      "location": "Aurora, CO"
+                  }
+              ],
+              "recommendations": [],
+              "activities": [],
+              "similarly_named_profiles": [
+                  {
+                      "name": "John Janczak",
+                      "link": "https://www.linkedin.com/in/john-janczak-7ab2aa3",
+                      "summary": null,
+                      "location": "Streamwood, IL"
+                  },
+                  {
+                      "name": "John Janczak",
+                      "link": "https://www.linkedin.com/in/john-janczak-89080011",
+                      "summary": "Principal Controls Engineer at ASML-Cymer",
+                      "location": "San Diego County, CA"
+                  },
+                  {
+                      "name": "John Janczak",
+                      "link": "https://www.linkedin.com/in/john-janczak-247a549",
+                      "summary": "Retired at The Scotts Miracle-Gro Company",
+                      "location": "Lewis Center, OH"
+                  },
+                  {
+                      "name": "John Janczak",
+                      "link": "https://www.linkedin.com/in/john-janczak-5aaa0549",
+                      "summary": "Assistant Vice President  at Mediterranean Shipping Company",
+                      "location": "Greater Chicago Area"
+                  },
+                  {
+                      "name": "John Janczak, MBA",
+                      "link": "https://www.linkedin.com/in/jejanczak",
+                      "summary": "VP Finance & Accounting - CFO at Zebco Brands",
+                      "location": "Dallas-Fort Worth Metroplex"
+                  }
+              ],
+              "articles": [],
+              "groups": [],
+              "skills": []
+          },
+          "last_updated": "2022-04-04T17:53:39"
+      },
+      {
+          "linkedin_profile_url": "https://www.linkedin.com/in/lisa-dries-cpa-1964505",
+          "profile": {
+              "public_identifier": "lisa-dries-cpa-1964505",
+              "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/lisa-dries-cpa-1964505/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240924%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240924T065028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e3ef5cd22eb5ee05fe2a0a34656391e5c1c74902f866aa02d02ab4e3b616024a",
+              "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/lisa-dries-cpa-1964505/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240924%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240924T065028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=85ea666d186017a1fa25b4c3bafd4b7037937dccb90d31661432e31a97f49775",
+              "first_name": "Lisa Dries,",
+              "last_name": "CPA",
+              "full_name": "Lisa Dries, CPA",
+              "follower_count": null,
+              "occupation": "Associate (CFO/Controller/Nonprofit Accounting Specialist) at Your Part-Time Controller, LLC",
+              "headline": "Nonprofit Accounting Expert | Process Improvement Enthusiast | Financial Reporting Aficionado",
+              "summary": "Personable accounting and finance professional with 15+ years of progressive leadership within multiple industry environments.  Logical, analytical and resourceful problem solver passionate about providing management and stakeholders with timely, actionable information to drive organizational success.",
+              "country": "US",
+              "country_full_name": "United States of America",
+              "city": "St Augustine",
+              "state": "Florida",
+              "experiences": [
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 8,
+                          "year": 2022
+                      },
+                      "ends_at": null,
+                      "company": "Your Part-Time Controller, LLC",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/yptc",
+                      "company_facebook_profile_url": null,
+                      "title": "Associate (CFO/Controller/Nonprofit Accounting Specialist)",
+                      "description": null,
+                      "location": null,
+                      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGWzypKNjtl7Q/company-logo_100_100/0/1589206232054?e=2147483647&v=beta&t=Sck6jluuVl37SCTwd2BW4kN4bqsUhIP3XArhfJL4FVs"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 9,
+                          "year": 2018
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 7,
+                          "year": 2022
+                      },
+                      "company": "Young Brothers Limited",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/youngbrothershawaii",
+                      "company_facebook_profile_url": null,
+                      "title": "Controller",
+                      "description": "- Led the Accounting & Finance Team responsible for comprehensive financial (GAAP), regulatory and management reporting, including analysis of budget and forecast related variances. \n- Responsible for preparation and filing of the Company's financial reports with the Public Utilities Commission (PUC).  Supported the revenue requirement model, provided analyses, exhibits, workpapers and other general rate case filing support.",
+                      "location": "Honolulu, Hawaii, United States",
+                      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGXZpYZuQ8DDw/company-logo_100_100/0/1597794187882?e=2147483647&v=beta&t=EgnX3e6xrjt6t3xtLC7PYCZUlEKwW-z_uDyCOvRYUng"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 3,
+                          "year": 2017
+                      },
+                      "ends_at": {
+                          "day": 30,
+                          "month": 9,
+                          "year": 2018
+                      },
+                      "company": "Hawaiian Host, Inc.",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/hawaiian-host-inc.",
+                      "company_facebook_profile_url": null,
+                      "title": "Corporate Controller",
+                      "description": "- Led the accounting and finance team; responsible for all aspects of financial reporting, including budget and forecast preparation, cash management, insurance administration, as well as internal control policies and procedures.\n-  Managed net working capital requirements ensuring effective utilization of lines of credits and other financing vehicles.",
+                      "location": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C560BAQGffcc7sUfWMw/company-logo_100_100/0/1596150940506?e=2147483647&v=beta&t=IzDkVhipYNIBf8TRnZt4bUik9KIkpnNVlnLz5lBy3B8"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 9,
+                          "year": 2016
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 3,
+                          "year": 2017
+                      },
+                      "company": "Hawaiian Host, Inc.",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/hawaiian-host-inc.",
+                      "company_facebook_profile_url": null,
+                      "title": "Senior Business Analyst",
+                      "description": "- Provided financial analysis, inventory costing, pricing analysis, customer segmentation and profitability reporting in support of executive management initiatives.",
+                      "location": "Honolulu, Hawaii",
+                      "logo_url": "https://media.licdn.com/dms/image/C560BAQGffcc7sUfWMw/company-logo_100_100/0/1596150940506?e=2147483647&v=beta&t=IzDkVhipYNIBf8TRnZt4bUik9KIkpnNVlnLz5lBy3B8"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 10,
+                          "year": 2014
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 8,
+                          "year": 2016
+                      },
+                      "company": "Spire Hawai‘i LLP",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/spire-hawaii-llp",
+                      "company_facebook_profile_url": null,
+                      "title": "Senior Manager",
+                      "description": "- Supervised audit & advisory team to facilitate client satisfaction & staff growth opportunities.\n- Aided in development and implementation of firm mentoring program, employee trainings, and community outreach programs.",
+                      "location": null,
+                      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFmG6c13Rpiyg/company-logo_100_100/0/1649348094353?e=2147483647&v=beta&t=XLnrwQTPyfpqeumiShCej7-KvZMser7lqm_fgf9O7YA"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 8,
+                          "year": 2013
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 8,
+                          "year": 2014
+                      },
+                      "company": "Reinsel Kuntz Lesher LLP",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/rklllp",
+                      "company_facebook_profile_url": null,
+                      "title": "Supervisor",
+                      "description": "- Supervised audits of commercial manufacturing & distribution, credit unions, and employee benefit plan industries.\n- Managed the financial statement preparation and review process. \n- Performed comprehensive financial analysis of entities to ensure compliance with financial reporting and presentation.\n- Performed work paper review, supervised staff and seniors, and provided on the job training. \n- Mentored staff and senior accountants in both personal and professional development.",
+                      "location": null,
+                      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEqDIGpAcI8mA/company-logo_100_100/0/1620157218284?e=2147483647&v=beta&t=yz2qRiL4NQfexjIo02ddc1zX231r9vFaK6O-nXO7bBo"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 8,
+                          "year": 2006
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 8,
+                          "year": 2013
+                      },
+                      "company": "ParenteBeard LLC",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/parentebeard-llc",
+                      "company_facebook_profile_url": null,
+                      "title": "Manager",
+                      "description": "- Planned, budgeted and executed all phases of integrated financial statement audits of publicly-traded and privately held entities, in various industries including manufacturing and distribution, financial institutions, not-for-profits and employee benefit plans.\n- Assessed, evaluated and documented the effectiveness of client internal control structures and presented recommendations for improvement to senior management.\n- Supervised, trained, and developed seniors, staff and interns, both on the job and in a classroom setting.\n- Reviewed work papers prepared by seniors and staff and provided formal evaluations.\n- Drafted and reviewed financial statements.\n- Performed extensive research on new and existing accounting requirements for reporting purposes and discussion with senior management.\n- Developed professional relationships by working with and learning from both staff and clients.",
+                      "location": null,
+                      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQGnvA4a7LeXUQ/company-logo_100_100/0/1614269265325?e=2147483647&v=beta&t=WNyQZelLwzZ3s2E6exH9LBShVbg0gzP4e3P8QyGDgF8"
+                  }
+              ],
+              "education": [
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "field_of_study": "Accounting",
+                      "degree_name": "Bachelor's Degree",
+                      "school": "Elizabethtown College",
+                      "school_linkedin_profile_url": "https://www.linkedin.com/school/elizabethtown-college/",
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF0OerJj1TAtQ/company-logo_100_100/0/1592486332425?e=2147483647&v=beta&t=L1oZrrOY-Zta6PfCY_ONYK1mFBuA50Ud_qGRNutFBSI",
+                      "grade": null,
+                      "activities_and_societies": null
+                  }
+              ],
+              "languages": [],
+              "accomplishment_organisations": [],
+              "accomplishment_publications": [],
+              "accomplishment_honors_awards": [],
+              "accomplishment_patents": [],
+              "accomplishment_courses": [],
+              "accomplishment_projects": [],
+              "accomplishment_test_scores": [],
+              "volunteer_work": [],
+              "certifications": [
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 3,
+                          "year": 2014
+                      },
+                      "ends_at": null,
+                      "name": "Certified Public Accountant",
+                      "license_number": null,
+                      "display_source": null,
+                      "authority": "Commonwealth of Pennsylvania",
+                      "url": null
+                  }
+              ],
+              "connections": 462,
+              "people_also_viewed": [],
+              "recommendations": [],
+              "activities": [
+                  {
+                      "title": "One of the favorite parts of my job is sharing the story behind the numbers to provide my clients with timely, actionable information. At #YPTC, they…",
+                      "link": "https://www.linkedin.com/posts/lisa-dries-cpa-1964505_yptc-datavisualization-bestplacetowork-activity-7008419464698318848-KC_L",
+                      "activity_status": "Shared by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "Learn more about YPTC at this week's Career Meet-up! #holidayhire #bestplacetowork #worklifebalance",
+                      "link": "https://www.linkedin.com/posts/lisa-dries-cpa-1964505_holidayhire-bestplacetowork-worklifebalance-activity-7008055487778717696-ZvJg",
+                      "activity_status": "Shared by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "Changing your mind is not a sign of losing integrity. It's often a mark of gaining wisdom.Realizing you were wrong doesn't mean you lack judgment…",
+                      "link": "https://www.linkedin.com/posts/adammgrant_activity-7003445515564498944-wWg7",
+                      "activity_status": "Liked by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "A “team” is not just people who work at the same time in the same place. A real team is a group of very different individuals who enjoy working…",
+                      "link": "https://www.linkedin.com/posts/leadership-first_leadershipfirstquotes-entrepeneurship-activity-7007341924445495296-IMmm",
+                      "activity_status": "Liked by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "One of the most profound quotes I’ve ever read regarding company culture.#culture #management #careers #humanresources",
+                      "link": "https://www.linkedin.com/posts/melissa-grabiner_culture-management-careers-activity-7003009896380084224-_Gex",
+                      "activity_status": "Liked by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "Real leadership has always been built on integrity and strong character. It's not just a role one plays; it is a life one leads, whether you are at…",
+                      "link": "https://www.linkedin.com/posts/leadership-first_entrepeneurship-executivesandmanagement-activity-7006812127072034816-gHgx",
+                      "activity_status": "Liked by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "#flexibility #bestplacetowork #holidayhire",
+                      "link": "https://www.linkedin.com/posts/lisa-dries-cpa-1964505_an-explorer-at-heart-asha-vyas-brings-a-activity-7006751124682592256-IKzJ",
+                      "activity_status": "Shared by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "Don't miss this recent CBS 21 news segment on how Elizabethtown College's $1.375 million Pennsylvania’s Redevelopment and Capital Assistance Program…",
+                      "link": "https://www.linkedin.com/posts/elizabethtown-college_elizabethtown-college-looks-to-add-nurses-activity-7006259779715112960-Gkpn",
+                      "activity_status": "Liked by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "Things we're grateful for today and every day:-the 1,338 #servicemembers , #veterans, #milspouses , family members, #VA employees, #DoD employees…",
+                      "link": "https://www.linkedin.com/posts/warriorsatease_servicemembers-veterans-milspouses-activity-7001542856712552448--eH7",
+                      "activity_status": "Liked by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "On Saturday, we received a call from a vessel requiring assistance. The vessel had lost main engine propulsion and was 54 nm offshore and needed to…",
+                      "link": "https://www.linkedin.com/posts/saltchukmarine_saltchukmarine-teamwork-activity-7006306909771227136-RiP8",
+                      "activity_status": "Liked by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "As a leader, you don't inspire your team by showing them how amazing you are. You inspire them by showing them how amazing they are.Check out more…",
+                      "link": "https://www.linkedin.com/posts/leadership-first_entrepeneurship-executivesandmanagement-activity-7006217899677806592-TQGo",
+                      "activity_status": "Liked by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "Attended the blessing and groundbreaking for the Howard Hughes Ulana Ward Village development with some of our Locations team members...",
+                      "link": "https://www.linkedin.com/posts/scott-c-3409224a_attended-the-blessing-and-groundbreaking-activity-7006123633248985089-o9Xl",
+                      "activity_status": "Liked by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "Choose the people around you wisely because they will have a significant impact on your potential and how successful you become.If you surround…",
+                      "link": "https://www.linkedin.com/posts/leadership-first_leadershipfirstquotes-leadershipfirst-activity-7002779776255950848-1kLq",
+                      "activity_status": "Liked by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "Talent wins games, but teamwork and intelligence win championshipsSource : https://lnkd.in/eBPaqAkb",
+                      "link": "https://www.linkedin.com/posts/be-happy-amazing-stories_talent-wins-games-but-teamwork-and-intelligence-activity-7005768762670882816-5NbI",
+                      "activity_status": "Liked by Lisa Dries, CPA"
+                  },
+                  {
+                      "title": "Read our joint report with Wharton Business Consulting that gives insights on key traits your finance team needs to lead your organization into the…",
+                      "link": "https://www.linkedin.com/posts/aicpa_download-the-white-paper-activity-6931861957226471424-lEEB",
+                      "activity_status": "Liked by Lisa Dries, CPA"
+                  }
+              ],
+              "similarly_named_profiles": [],
+              "articles": [],
+              "groups": [],
+              "skills": []
+          },
+          "last_updated": "2022-12-13T20:10:43"
+      },
+      {
+          "linkedin_profile_url": "https://www.linkedin.com/in/gary-cordell-36a69176",
+          "profile": {
+              "public_identifier": "gary-cordell-36a69176",
+              "profile_pic_url": null,
+              "background_cover_image_url": null,
+              "first_name": "Gary",
+              "last_name": "Cordell",
+              "full_name": "Gary Cordell",
+              "follower_count": null,
+              "occupation": null,
+              "headline": "--",
+              "summary": null,
+              "country": "US",
+              "country_full_name": null,
+              "city": "Houston",
+              "state": "Texas Area",
+              "experiences": [
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 7,
+                          "year": 2011
+                      },
+                      "ends_at": null,
+                      "company": "Syneo LLC",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "CFO",
+                      "description": null,
+                      "location": null,
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 30,
+                          "month": 11,
+                          "year": 2002
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 7,
+                          "year": 2011
+                      },
+                      "company": "Technical Innovations LLC",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "CEO",
+                      "description": null,
+                      "location": null,
+                      "logo_url": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 8,
+                          "year": 1989
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1998
+                      },
+                      "company": "The Galtney Group Inc",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "CFO",
+                      "description": null,
+                      "location": null,
+                      "logo_url": null
+                  }
+              ],
+              "education": [
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1973
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1974
+                      },
+                      "field_of_study": "Finance/Accounting",
+                      "degree_name": "Masters of Management",
+                      "school": "Northwestern University",
+                      "school_linkedin_profile_url": null,
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": null,
+                      "grade": null,
+                      "activities_and_societies": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1971
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1973
+                      },
+                      "field_of_study": null,
+                      "degree_name": "Business Administration and Management, General",
+                      "school": "University of Alabama",
+                      "school_linkedin_profile_url": null,
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": null,
+                      "grade": null,
+                      "activities_and_societies": null
+                  },
+                  {
+                      "starts_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1969
+                      },
+                      "ends_at": {
+                          "day": 31,
+                          "month": 12,
+                          "year": 1970
+                      },
+                      "field_of_study": null,
+                      "degree_name": "none",
+                      "school": "University of Texas",
+                      "school_linkedin_profile_url": null,
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": null,
+                      "grade": null,
+                      "activities_and_societies": null
+                  }
+              ],
+              "languages": [],
+              "accomplishment_organisations": [],
+              "accomplishment_publications": [],
+              "accomplishment_honors_awards": [],
+              "accomplishment_patents": [],
+              "accomplishment_courses": [],
+              "accomplishment_projects": [],
+              "accomplishment_test_scores": [],
+              "volunteer_work": [],
+              "certifications": [],
+              "connections": null,
+              "people_also_viewed": [],
+              "recommendations": [],
+              "activities": [],
+              "similarly_named_profiles": [],
+              "articles": [],
+              "groups": [],
+              "skills": []
+          },
+          "last_updated": "2022-01-20T03:30:58"
+      },
+      {
+          "linkedin_profile_url": "https://www.linkedin.com/in/larry-mcnellis-1b594a3a",
+          "profile": {
+              "public_identifier": "larry-mcnellis-1b594a3a",
+              "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/larry-mcnellis-1b594a3a/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240924%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240924T065028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5ede08605727b61118380fab82f38be50b37bdb12bd3e7ddccbc44493d8d2156",
+              "background_cover_image_url": null,
+              "first_name": "Larry",
+              "last_name": "McNellis",
+              "full_name": "Larry McNellis",
+              "follower_count": null,
+              "occupation": null,
+              "headline": "\n                  Mostly retired; former President, current CFO at AcuCut, Inc.\n              ",
+              "summary": null,
+              "country": "US",
+              "country_full_name": null,
+              "city": "Sarasota",
+              "state": "Florida Area",
+              "experiences": [
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "company": "AcuCut, Inc.",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "CFO",
+                      "description": null,
+                      "location": null,
+                      "logo_url": null
+                  }
+              ],
+              "education": [
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "field_of_study": "Accounting and Business/Management",
+                      "degree_name": "BBA Degree",
+                      "school": "Niagara University",
+                      "school_linkedin_profile_url": "https://www.linkedin.com/school/niagara-university/",
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": null,
+                      "grade": null,
+                      "activities_and_societies": null
+                  }
+              ],
+              "languages": [],
+              "accomplishment_organisations": [],
+              "accomplishment_publications": [],
+              "accomplishment_honors_awards": [],
+              "accomplishment_patents": [],
+              "accomplishment_courses": [],
+              "accomplishment_projects": [],
+              "accomplishment_test_scores": [],
+              "volunteer_work": [
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "title": "Former Chairman",
+                      "cause": null,
+                      "company": "Citizens' Tax Oversight Committee, North Port, FL",
+                      "company_linkedin_profile_url": null,
+                      "description": null,
+                      "logo_url": null
+                  }
+              ],
+              "certifications": [],
+              "connections": null,
+              "people_also_viewed": [],
+              "recommendations": [],
+              "activities": [],
+              "similarly_named_profiles": [],
+              "articles": [],
+              "groups": [],
+              "skills": []
+          },
+          "last_updated": "2020-12-21T15:01:23"
+      },
+      {
+          "linkedin_profile_url": "https://www.linkedin.com/in/james-purser-479b7216",
+          "profile": {
+              "public_identifier": "james-purser-479b7216",
+              "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/james-purser-479b7216/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240924%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240924T065028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4eafa4507e92ea36f736a5e2cbfb028c78fa2b8665069b8f9967d97b018b6dfe",
+              "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/james-purser-479b7216/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240924%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240924T065028Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8d6d41f9dab6c84ebdbeb55814be3811b7ffe0093007712de14005db4350c0f5",
+              "first_name": "James",
+              "last_name": "Purser",
+              "full_name": "James Purser",
+              "follower_count": null,
+              "occupation": "CFO at Baker Triangle",
+              "headline": "CFO at Baker Triangle",
+              "summary": null,
+              "country": "US",
+              "country_full_name": "United States of America",
+              "city": "Mesquite",
+              "state": "Texas",
+              "experiences": [
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "company": "Baker Triangle",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/baker-triangle",
+                      "company_facebook_profile_url": null,
+                      "title": "CFO",
+                      "description": null,
+                      "location": null,
+                      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHc7krInY9x0A/company-logo_100_100/0/1579530597986?e=1640217600&v=beta&t=-ZuckhKae1Dowzz1WAOoHZUYLUpyPIbFE5_-3_ToS4c"
+                  },
+                  {
+                      "starts_at": {
+                          "day": 1,
+                          "month": 1,
+                          "year": 2005
+                      },
+                      "ends_at": null,
+                      "company": "BakerTriangle",
+                      "company_linkedin_profile_url": "https://www.linkedin.com/company/baker-triangle",
+                      "company_facebook_profile_url": null,
+                      "title": "CFO",
+                      "description": null,
+                      "location": null,
+                      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHc7krInY9x0A/company-logo_100_100/0/1579530597986?e=1640217600&v=beta&t=-ZuckhKae1Dowzz1WAOoHZUYLUpyPIbFE5_-3_ToS4c"
+                  }
+              ],
+              "education": [
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "field_of_study": null,
+                      "degree_name": null,
+                      "school": "School name:",
+                      "school_linkedin_profile_url": null,
+                      "school_facebook_profile_url": null,
+                      "description": null,
+                      "logo_url": null,
+                      "grade": null,
+                      "activities_and_societies": null
+                  }
+              ],
+              "languages": [],
+              "accomplishment_organisations": [],
+              "accomplishment_publications": [],
+              "accomplishment_honors_awards": [],
+              "accomplishment_patents": [],
+              "accomplishment_courses": [],
+              "accomplishment_projects": [],
+              "accomplishment_test_scores": [],
+              "volunteer_work": [],
+              "certifications": [],
+              "connections": 71,
+              "people_also_viewed": [
+                  {
+                      "link": "https://www.linkedin.com/in/johnny-barnes-b2200312",
+                      "name": "Johnny Barnes",
+                      "summary": "President | Bryan/College Station Office at Baker Triangle",
+                      "location": "College Station, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/steve-baker-563b5411",
+                      "name": "Steve Baker",
+                      "summary": "Managing Partner, BakerTriangle",
+                      "location": "Dallas, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/bryan-baker-75938535",
+                      "name": "Bryan Baker",
+                      "summary": "CEO at Baker Triangle",
+                      "location": "Dallas-Fort Worth Metroplex"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/preston-pressley",
+                      "name": "Preston Pressley",
+                      "summary": "President | Dallas Office at Baker Triangle",
+                      "location": "Dallas, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jim-hollis-23302616",
+                      "name": "Jim Hollis",
+                      "summary": "Business Development at Baker Triangle",
+                      "location": "Mesquite, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/mark-streetman-6b1ab61ab",
+                      "name": "Mark Streetman",
+                      "summary": "Sr VP Operations at BakerTriangle",
+                      "location": "Mesquite, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/charlie-armbruster-06689213a",
+                      "name": "Charlie Armbruster",
+                      "summary": "Vice President at Baker Triangle",
+                      "location": "Dallas, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/brian-krueger-1965196",
+                      "name": "Brian Krueger",
+                      "summary": "Vice President at Baker Triangle",
+                      "location": "Houston, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/keith-giddens-b6984012",
+                      "name": "Keith Giddens",
+                      "summary": "President at BakerTriangle Prefab Ltd",
+                      "location": "Mesquite, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/bryan-craft-01184412",
+                      "name": "Bryan Craft",
+                      "summary": "President at Baker Triangle",
+                      "location": "Dallas-Fort Worth Metroplex"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/amanda-baker-2a61b629",
+                      "name": "Amanda Baker",
+                      "summary": "receptionist at Baker Triangle",
+                      "location": "Mesquite, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/tony-bailey-7a523284",
+                      "name": "Tony Bailey",
+                      "summary": "Vice President Project Management at Baker Triangle",
+                      "location": "Mesquite, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/weitingwtang",
+                      "name": "William Tang",
+                      "summary": "Director of VDC",
+                      "location": "Richardson, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/kelly-lyons-79a40578",
+                      "name": "Kelly Lyons",
+                      "summary": "Specialties Project Manager at Baker Triangle",
+                      "location": "Keller, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jennifer-f-70a2a8159",
+                      "name": "Jennifer F.",
+                      "summary": "Director of Legal and Contract Management",
+                      "location": "Irvine, CA"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/nataliiacohen",
+                      "name": "Nataliia Cohen",
+                      "summary": "Senior Digital Marketing Manager at Cherre",
+                      "location": "San Diego County, CA"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/landan-coronado-a15780129",
+                      "name": "Landan Coronado",
+                      "summary": "Project Manager at Baker Triangle Dallas",
+                      "location": "Rockwall, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/jeremy-williams-418800a7",
+                      "name": "Jeremy Williams",
+                      "summary": "Lasco Acoustics, Drywall, Plaster & Stone",
+                      "location": "Dallas, TX"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/kade-sparling-5a847442",
+                      "name": "Kade Sparling",
+                      "summary": "Vice President of Operations at Baker Drywall Houston, Ltd.",
+                      "location": "Greater Houston"
+                  },
+                  {
+                      "link": "https://www.linkedin.com/in/sergio-montoya-0a8062ba",
+                      "name": "Sergio Montoya",
+                      "summary": "Vice President at Baker Triangle",
+                      "location": "Austin, Texas Metropolitan Area"
+                  }
+              ],
+              "recommendations": [],
+              "activities": [],
+              "similarly_named_profiles": [
+                  {
+                      "name": "James Purser",
+                      "link": "https://au.linkedin.com/in/jamespurser",
+                      "summary": "Team Lead at SBS",
+                      "location": "Greater Sydney Area"
+                  },
+                  {
+                      "name": "James Purser",
+                      "link": "https://uk.linkedin.com/in/james-purser-a7a1a51a3",
+                      "summary": "Director at Streets Chartered Accountants",
+                      "location": "Wyboston"
+                  },
+                  {
+                      "name": "James Purser",
+                      "link": "https://uk.linkedin.com/in/james-purser-200053bb",
+                      "summary": "Manufacturing Operations Manager at BOSCH THERMOTECHNOLOGY LTD",
+                      "location": "Worcester City"
+                  },
+                  {
+                      "name": "James Purser",
+                      "link": "https://www.linkedin.com/in/james-purser-504b6353",
+                      "summary": "Performance Manager at Willis Towers Watson Via Benefits Insurance Services",
+                      "location": "Herriman, UT"
+                  },
+                  {
+                      "name": "James Purser",
+                      "link": "https://uk.linkedin.com/in/james-purser-77a7a720",
+                      "summary": "Operations Manager Sberbank CIB UK",
+                      "location": "United Kingdom"
+                  }
+              ],
+              "articles": [],
+              "groups": [],
+              "skills": []
+          },
+          "last_updated": "2021-09-23T14:08:42"
+      },
+      {
+          "linkedin_profile_url": "https://www.linkedin.com/in/doc-cee-869253107",
+          "profile": {
+              "public_identifier": "doc-cee-869253107",
+              "profile_pic_url": null,
+              "background_cover_image_url": null,
+              "first_name": "Doc",
+              "last_name": "Cee",
+              "full_name": "Doc Cee",
+              "follower_count": null,
+              "occupation": null,
+              "headline": "CFO at Dcmk",
+              "summary": null,
+              "country": "US",
+              "country_full_name": null,
+              "city": "Baltimore",
+              "state": "Maryland",
+              "experiences": [
+                  {
+                      "starts_at": null,
+                      "ends_at": null,
+                      "company": "Dcmk",
+                      "company_linkedin_profile_url": null,
+                      "company_facebook_profile_url": null,
+                      "title": "CFO",
+                      "description": null,
+                      "location": null,
+                      "logo_url": null
+                  }
+              ],
+              "education": [],
+              "languages": [],
+              "accomplishment_organisations": [],
+              "accomplishment_publications": [],
+              "accomplishment_honors_awards": [],
+              "accomplishment_patents": [],
+              "accomplishment_courses": [],
+              "accomplishment_projects": [],
+              "accomplishment_test_scores": [],
+              "volunteer_work": [],
+              "certifications": [],
+              "connections": null,
+              "people_also_viewed": [],
+              "recommendations": [],
+              "activities": [],
+              "similarly_named_profiles": [],
+              "articles": [],
+              "groups": [],
+              "skills": []
+          },
+          "last_updated": "2022-01-27T02:50:32"
+      }
+  ],
+  "next_page": "https://nubela.co/proxycurl/api/v2/search/person?country=US&page_size=10&enrich_profiles=enrich&next_token=EOrjjg1u2qa7xsqr4bHYhyug5agHD0gsexYAyMbOG4ObDaViP6d4Kpj9vv1Aa02TXe7tbyxul6SOaHtstjgCHAZNbZFl2qLutyO7BhLTqAlYTObecfkpinmWEHOWW6aLI436DUzRb6PzTvhZSwZMZBgpNj14dfsSyfm2TgTegL89js7rgCiebY3EjRzyGTKhGEDq1aDqZQLCnUgBrSVZA3dJYUEqDe4kXV",
+  "total_result_count": 10000
+}

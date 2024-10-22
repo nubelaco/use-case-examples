@@ -1,0 +1,367 @@
+{
+  "public_identifier": "zacjones91",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/zacjones91/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042023Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=82ac7589de92366e9f432014526ce7cdf54e2862525a21baf3f46dc9803e0917",
+  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/zacjones91/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042023Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=316baea7d45f17dc0ccffcc5150fbfd8c29dd8ca5f1db322e26628ba8d372985",
+  "first_name": "Zac",
+  "last_name": "Jones",
+  "full_name": "Zac Jones",
+  "follower_count": 1176,
+  "occupation": "Full Stack Engineer at Zapier",
+  "headline": "Software Engineer at Zapier",
+  "summary": "Pragmatic software engineer building scalable and reliable applications. Backend focused, experienced in full stack development with proven track record of leadership and creating positive engineering culture.",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Nashville",
+  "state": "Tennessee",
+  "experiences": [
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 6,
+              "year": 2023
+          },
+          "ends_at": null,
+          "company": "Zapier",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/zapier",
+          "company_facebook_profile_url": null,
+          "title": "Full Stack Engineer",
+          "description": null,
+          "location": "Remote",
+          "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/zapier/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042024Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=3ad43cb0f1c68fe6666ed5f843ab72c5aa49352e3634acb7edc16d90b4cec60f"
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 9,
+              "year": 2020
+          },
+          "ends_at": {
+              "day": 30,
+              "month": 6,
+              "year": 2023
+          },
+          "company": "eviCore healthcare",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/evicore",
+          "company_facebook_profile_url": null,
+          "title": "Software Engineering Advisor",
+          "description": "Backend-oriented full-stack engineering in an event driven system. I contributed to standing up a new product line as well as adding features to already existing systems.\n\n- Built and scaled containerized microservices in Azure based infrastructure using C#, Apache Kafka, Docker, SQL, NoSQL (CosmosDB), and managed via Terraform\n- Designed and implemented custom event sourcing framework (using C#) for medical request routing engine, supporting 200k cases per day with ingestion capacity tested to ~1k messages per second\n- Increased performance of critical medical data ingestion process by fine tuning SQL queries, resulting in significantly reduced load times and SQL server cost savings\n- Created a React Component Library (built with TypeScript and Storybook) of over 30 individual components to accelerate high quality development efforts internally\n- Created and co-led live React workshop for 80 internal software engineers, resulting in surveyed 22% increase in React competency across eviCore developers",
+          "location": "Nashville, Tennessee, United States · Remote",
+          "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/evicore/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042024Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=c5e1295228f3396b975a8acfc1e1be619b4db56ee2d2449ad09bbb2578b848ce"
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 4,
+              "year": 2019
+          },
+          "ends_at": {
+              "day": 30,
+              "month": 9,
+              "year": 2020
+          },
+          "company": "EY",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/ernstandyoung",
+          "company_facebook_profile_url": null,
+          "title": "Software Engineer",
+          "description": "I was initially a full stack developer and eventual team lead at EY, producing internal and externally facing applications to support the indirect tax practice.\n\n- Designed logic and led implementation of secure file storage and ETL system using Azure Blob Storage, SQL, Angular, and C#, enabling substantial cost savings over legacy system\n- Improved performance with data caching layer (C#, Dapper ORM, Azure SQL, Azure Functions) to minimize third party API calls in a data-intensive legislation tracking application\n- Developed calendar functionality using Kendo UI's Angular components and C# API\n- Utilized NUnit, Selenium, and test driven development to boost test coverage above 80% for customer facing restful API",
+          "location": "Nashville, TN",
+          "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ernstandyoung/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042024Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=34592ecf220e035972807d7f5eed419de30678e8411c0552e9187b43cbe0da19"
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 10,
+              "year": 2018
+          },
+          "ends_at": {
+              "day": 31,
+              "month": 3,
+              "year": 2019
+          },
+          "company": "Nashville Software School",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/nashville-software-school",
+          "company_facebook_profile_url": null,
+          "title": "Full Stack Developer",
+          "description": "Intensive full-time six month software development bootcamp focusing on full stack development fundamentals and problem solving. The final half of the program is executed in a simulated company environment with Scrum methodology.\n\n• Languages + frameworks covered: HTML, CSS, Javascript, React, Python, Django\n• Applied OOP fundamentals through both group and individual projects reflecting real world issues\n• Implemented source code version control with Git and Github\n• Utilized Fetch API and Python Requests for database interactions with both external APIs and locally hosted JSON server\n• Automated linting and Browserify module bundling using Grunt and Gulp\n• Deployed applications using GH Pages, Netlify, and Heroku\n• Created database structure, content, and queries using SQL\n• Wrote unit testing suites in Python\n• Team lead for Nutshell social networking application - maintained responsibility for project management via GitHub Issues, white boarding, and ERD design with teammates",
+          "location": "Greater Nashville Area, TN",
+          "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/nashville-software-school/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042024Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8f581196ac3d5baeeecb7490cc3e6e7c796cf2d4597a3cf92bc8d22dd8960a35"
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 8,
+              "year": 2016
+          },
+          "ends_at": {
+              "day": 31,
+              "month": 10,
+              "year": 2018
+          },
+          "company": "TD Ameritrade",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/td-ameritrade",
+          "company_facebook_profile_url": null,
+          "title": "Investment Consultant",
+          "description": "TD Ameritrade is a major online brokerage firm. I joined Scottrade in 2016 and was one of a select few chosen to remain with the firm after it was purchased by TD Ameritrade.",
+          "location": "Nashville, TN",
+          "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/td-ameritrade/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042024Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=0637db9da1db2954aab02eedacf7915c87640b5c070bee1e4894b863163c5b56"
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 1,
+              "year": 2015
+          },
+          "ends_at": {
+              "day": 31,
+              "month": 8,
+              "year": 2016
+          },
+          "company": "Innovative Financial Group",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/askifg",
+          "company_facebook_profile_url": null,
+          "title": "Investment Advisor ",
+          "description": "• Prepared financial modeling and statistical reports to determine suitability of equity investments\n• Utilized eMoneyAdvisor to create dynamic and flexible financial plans\n• Created Excel workbook that optimized sales resources and increased revenue by tracking timing of cash flows based on client segmentation\n• Performed quantitative analysis of equities and ETF's for inclusion in client portfolios",
+          "location": "Nashville, TN",
+          "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/askifg/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042024Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=124fdaad7b6d20d3f5207ed496e67182cb30baf0423e89677471ea2e2b5c30c3"
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 5,
+              "year": 2013
+          },
+          "ends_at": {
+              "day": 31,
+              "month": 1,
+              "year": 2015
+          },
+          "company": "Waddell & Reed",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/waddell-&-reed",
+          "company_facebook_profile_url": null,
+          "title": "Financial Planner",
+          "description": "• Evaluated financial results and performance of companies and client portfolios\n• Earned Rookie Advisor of the Year Award (2014) for client satisfaction and portfolio management",
+          "location": "Nashville, TN",
+          "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/waddell-%26-reed/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042024Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=41d11fdb420a455771b0e6e8f133376b3f28c4c1aedc0940a05b40db4b753da3"
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 1,
+              "year": 2011
+          },
+          "ends_at": {
+              "day": 30,
+              "month": 4,
+              "year": 2013
+          },
+          "company": "Ameriprise Financial",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/ameriprise-financial-services-llc",
+          "company_facebook_profile_url": null,
+          "title": "Financial Planning Intern",
+          "description": "I was involved in almost all aspects of the practice of a financial advisor in Tuscaloosa, Alabama. Accountabilities included implementation of new cloud-based financial planning software, financial planning, and investment portfolio analysis and construction.",
+          "location": "Tuscaloosa, Alabama Area",
+          "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ameriprise-financial-services-llc/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042024Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=79b4554b785847ecb307dc1074629d78ae8b6f75e6aead9d99616bcab415cd0a"
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 9,
+              "year": 2010
+          },
+          "ends_at": {
+              "day": 30,
+              "month": 4,
+              "year": 2013
+          },
+          "company": "UA Culverhouse Investment Management Group",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/university-of-alabama",
+          "company_facebook_profile_url": null,
+          "title": "VP of Strategic Engagement",
+          "description": "• Served as member of 5 investment committees in various industries with combined portfolio value of $400k+.\n• Gathered data and evaluated company valuations, financial models, spending, performance data, and financial histories using fundamental analysis and Excel-based financial models.\n• Presented company investment analysis reports to advisory board for potential inclusion in portfolios.\n• Managed 5 committees responsible for performing and analyzing investment research, preparing for investment committee meetings, training new members, and internal promotions.\n\nOther accomplishments include:\n\n•\tIncreased awareness of group among UA students and alumni via networking, publications, YouTube, and social media\n•\tGrew Capstone Student Investment Conference from 3 attending schools to 8 attending schools\n•\tWorked closely with multiple groups, including alumni, UA SGA, and donors to improve overall structure of group and performance of portfolio",
+          "location": "Tuscaloosa, Alabama Area",
+          "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/university-of-alabama/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042024Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=456223e7071dc86e69318bd007ea7f48f4e0d06985f847d27fdc1db7fc031a27"
+      }
+  ],
+  "education": [
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 1,
+              "year": 2018
+          },
+          "ends_at": {
+              "day": 31,
+              "month": 12,
+              "year": 2019
+          },
+          "field_of_study": null,
+          "degree_name": "Web Development ",
+          "school": "Nashville Software School",
+          "school_linkedin_profile_url": "https://www.linkedin.com/company/nashville-software-school",
+          "school_facebook_profile_url": null,
+          "description": "I graduated as a member of Cohort 28 at the Nashville Software School, an intense 6 month bootcamp where I completed my pivot from finance to full stack software development. Front end technologies included HTML, CSS, Javascript, jQuery, React, and more. The primary back end language for my cohort was Python with an emphasis on the Django framework.",
+          "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/nashville-software-school/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042024Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8f581196ac3d5baeeecb7490cc3e6e7c796cf2d4597a3cf92bc8d22dd8960a35",
+          "grade": null,
+          "activities_and_societies": null
+      },
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 1,
+              "year": 2009
+          },
+          "ends_at": {
+              "day": 31,
+              "month": 12,
+              "year": 2013
+          },
+          "field_of_study": "Finance, Investment Management",
+          "degree_name": "BS",
+          "school": "The University of Alabama",
+          "school_linkedin_profile_url": "https://www.linkedin.com/company/university-of-alabama",
+          "school_facebook_profile_url": null,
+          "description": null,
+          "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/university-of-alabama/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241022%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241022T042024Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=456223e7071dc86e69318bd007ea7f48f4e0d06985f847d27fdc1db7fc031a27",
+          "grade": null,
+          "activities_and_societies": null
+      }
+  ],
+  "languages": [
+      "English"
+  ],
+  "languages_and_proficiencies": [
+      {
+          "name": "English",
+          "proficiency": "None"
+      }
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 11,
+              "year": 2022
+          },
+          "ends_at": null,
+          "title": "goModeS",
+          "description": "I have published an open source library called goModeS. It is a Golang library for decoding Mode-S messages from aircraft.",
+          "url": "https://github.com/pragmatic-zac/goModeS"
+      }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+      {
+          "starts_at": {
+              "day": 1,
+              "month": 6,
+              "year": 2014
+          },
+          "ends_at": {
+              "day": 31,
+              "month": 5,
+              "year": 2020
+          },
+          "title": "Volunteer",
+          "cause": "Poverty Alleviation",
+          "company": "Park Center",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/106022/",
+          "description": null,
+          "logo_url": "https://media.licdn.com/dms/image/C4E0BAQG_BxHAb1Df4Q/company-logo_400_400/0/1630589931750/park_center_logo?e=1718841600&v=beta&t=PbVkMWRtIkLp5755s_scqg1ImZ5G1IniMgMQRTXGpuI"
+      }
+  ],
+  "certifications": [],
+  "connections": 1182,
+  "people_also_viewed": [
+      {
+          "link": "https://www.linkedin.com/in/calvin-foster-98b1b69b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABU1ZPsBg0UeAv3RXJWqkIMyM9P035oVCjc",
+          "name": "Calvin Foster",
+          "summary": "Software Engineer at Dollar General",
+          "location": null
+      },
+      {
+          "link": "https://www.linkedin.com/in/wadefoster?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAALKJOMBxy5ZxULBUrLtJy8PJ8hDHL6vMt8",
+          "name": "Wade Foster",
+          "summary": "Co-founder & CEO at Zapier, YC & Mizzou Alum",
+          "location": null
+      },
+      {
+          "link": "https://www.linkedin.com/in/michaelwclark2?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACTG2z4Bk26bqY2S-YbWLQfK8bp5yh4vEv0",
+          "name": "Michael Clark",
+          "summary": "Software Engineer",
+          "location": null
+      },
+      {
+          "link": "https://www.linkedin.com/in/thomas-ehardt-9345153?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAACcI_gBIjqYUHFcEuRMLd1jKJ8QgXG3BsE",
+          "name": "Thomas Ehardt",
+          "summary": "Principal Software Engineer at Smarsh/Digital Reasoning",
+          "location": null
+      },
+      {
+          "link": "https://www.linkedin.com/in/aaron-barfoot?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAozDcQBJDi98ZRCEitZs1hTZpTjkjm9tn4",
+          "name": "Aaron Barfoot",
+          "summary": "Software Engineer at Core10",
+          "location": null
+      }
+  ],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+      {
+          "name": "Zachary Jones",
+          "link": "https://www.linkedin.com/in/zachary-jones",
+          "summary": "Founder & CEO at PartsClub.us",
+          "location": "Austin, TX"
+      },
+      {
+          "name": "Zachary Jones",
+          "link": "https://www.linkedin.com/in/zachary-jones-3a9b2a114",
+          "summary": "Account Executive at Darktrace",
+          "location": "Los Angeles Metropolitan Area"
+      },
+      {
+          "name": "Zachary Jones",
+          "link": "https://www.linkedin.com/in/zacharywjones",
+          "summary": "Logistics Manager at Carvana",
+          "location": "Cincinnati Metropolitan Area"
+      },
+      {
+          "name": "Zachary Jones",
+          "link": "https://www.linkedin.com/in/zachary-jones-762a45a5",
+          "summary": "IT/MIS",
+          "location": "United States"
+      },
+      {
+          "name": "Zachary Jones",
+          "link": "https://www.linkedin.com/in/zachary-jones-a26561101",
+          "summary": "Learning & Development Professional | MA in Education | Change Management Expert | #ONO",
+          "location": "Greater Chicago Area"
+      }
+  ],
+  "articles": [],
+  "groups": [
+      {
+          "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQFgQ2wzVdmtwQ/group-logo_image-shrink_400x400/0/1631000191769?e=1711450800&v=beta&t=9i2KZ2RIV1DMZB1hT627r256_daSkBSw4kgOEGKODSM",
+          "name": "University of Alabama Culverhouse College of Business Alumni",
+          "url": "https://www.linkedin.com/groups/51757"
+      },
+      {
+          "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQFzoNtI_TSZKw/group-logo_image-shrink_48x48/0/1631374655750?e=1711450800&v=beta&t=qfZmr_DbBTKsFVL60O0-HZN6eoIpfWgJC9NYeVV4MU4",
+          "name": "UA Culverhouse Alumni",
+          "url": "https://www.linkedin.com/groups/94664"
+      }
+  ],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}

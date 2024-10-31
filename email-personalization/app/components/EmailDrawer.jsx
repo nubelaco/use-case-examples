@@ -14,6 +14,7 @@ import {
 } from "@/components/ui/sheet";
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import { Mail } from "lucide-react";
 
 function EmailDrawer({
   isOpen,
@@ -23,9 +24,9 @@ function EmailDrawer({
   data,
   isBulkEmail,
   setIsBulkEmail,
+  setGeneratedEmails,
 }) {
   const [isLoading, setIsLoading] = useState(false);
-  const [generatedEmails, setGeneratedEmails] = useState([]);
 
   useEffect(() => {
     setGeneratedEmails(
@@ -43,16 +44,28 @@ Hi <FIRST_NAME>
 
   const [prompt, setPrompt] = useState(initialPrompt);
 
-  const handleSavePersonalizedEmail = (personalizedEmail) => {
+  const handleSavePersonalizedEmail = (personalizedEmail, profile) => {
     const generatedEmails =
       JSON.parse(localStorage.getItem("generatedEmails")) || [];
 
     localStorage.setItem(
       "generatedEmails",
-      JSON.stringify([...generatedEmails, personalizedEmail]),
+      JSON.stringify([
+        ...generatedEmails,
+        {
+          email: personalizedEmail,
+          public_identifier: profile.public_identifier,
+        },
+      ]),
     );
 
-    setGeneratedEmails((prev) => [...prev, personalizedEmail]);
+    setGeneratedEmails((prev) => [
+      ...prev,
+      {
+        email: personalizedEmail,
+        public_identifier: profile.public_identifier,
+      },
+    ]);
   };
 
   const handleSubmit = async () => {
@@ -60,8 +73,8 @@ Hi <FIRST_NAME>
       setIsLoading(true);
       const responses = await Promise.all(
         data.map((profile) =>
-          // fetch(`/api/generateEmail`, {
-          fetch(`/api/mockGenerateEmail`, {
+          fetch(`/api/generateEmail`, {
+          // fetch(`/api/mockGenerateEmail`, {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
@@ -74,8 +87,8 @@ Hi <FIRST_NAME>
       const results = await Promise.all(
         responses.map((response) => response.json()),
       );
-      results.forEach((email) => {
-        handleSavePersonalizedEmail(email);
+      results.forEach((email, index) => {
+        handleSavePersonalizedEmail(email, data[index]);
       });
     } catch (error) {
       console.error("Error fetching email:", error);
@@ -92,25 +105,12 @@ Hi <FIRST_NAME>
     }
   };
 
- 
-  const [copiedIndex, setCopiedIndex] = useState(null);
-
-  const handleCopy = (index) => {
-    navigator.clipboard.writeText(generatedEmails[index]);
-    setCopiedIndex(index);
-    setTimeout(() => {
-      setCopiedIndex(null);
-    }, 2000);
-  };
-
   return (
     <Sheet open={isOpen} onOpenChange={handleOpenChange}>
       <SheetContent className="overflow-auto">
         <SheetHeader>
           <SheetTitle>
-            {isBulkEmail
-              ? "Bulk generate personalized emails"
-              : "Generate personalized email"}
+            Bulk generate personalized emails
           </SheetTitle>
         </SheetHeader>
         <div className="grid gap-4 py-4">
@@ -123,7 +123,7 @@ Hi <FIRST_NAME>
             </i>
           </span>
           <Link
-            className="text-blue-500 hover:text-blue-600 text-sm underline"
+            className="text-sm text-blue-500 underline hover:text-blue-600"
             href="https://nubela.co/proxycurl/docs#people-api-person-profile-endpoint"
             target="_blank"
           >
@@ -148,28 +148,13 @@ Hi <FIRST_NAME>
             </div>
           )}
           <Button onClick={handleSubmit}>
-            {isLoading ? "Generating..." : "Generate personalized email"}
+            {isLoading ? "Generating..." : (
+              <>
+                <Mail className="w-4 h-4" />
+                {isBulkEmail ? "Bulk generate emails" : "Generate email"}
+              </>
+            )}
           </Button>
-          {generatedEmails.length > 0 && (
-            <>
-              {generatedEmails.map((email, index) => (
-                <div key={index} className="flex flex-col">
-                  <Textarea
-                    value={email}
-                    className="h-[200px] overflow-y-auto"
-                    disabled
-                  />
-
-                  <Button
-                    className="my-2 ml-auto w-24"
-                    onClick={() => handleCopy(index)}
-                  >
-                    {index === copiedIndex ? "Copied" : "Copy"}
-                  </Button>
-                </div>
-              ))}
-            </>
-          )}
         </div>
       </SheetContent>
     </Sheet>

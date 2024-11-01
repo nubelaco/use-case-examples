@@ -1,16 +1,10 @@
 import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-// import { Label } from "@/components/ui/label"
 import { Textarea } from "@/components/ui/textarea";
 import {
   Sheet,
-  SheetClose,
   SheetContent,
-  SheetDescription,
-  SheetFooter,
   SheetHeader,
   SheetTitle,
-  SheetTrigger,
 } from "@/components/ui/sheet";
 import { useEffect, useState } from "react";
 import Link from "next/link";
@@ -19,11 +13,8 @@ import { Mail } from "lucide-react";
 function EmailDrawer({
   isOpen,
   setIsOpen,
-  selectedLead,
   setSelectedLead,
   data,
-  isBulkEmail,
-  setIsBulkEmail,
   setGeneratedEmails,
 }) {
   const [isLoading, setIsLoading] = useState(false);
@@ -74,7 +65,6 @@ Hi <FIRST_NAME>
       const responses = await Promise.all(
         data.map((profile) =>
           fetch(`/api/generateEmail`, {
-          // fetch(`/api/mockGenerateEmail`, {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
@@ -101,7 +91,6 @@ Hi <FIRST_NAME>
     setIsOpen(open);
     if (!open) {
       setSelectedLead(null);
-      setIsBulkEmail(false);
     }
   };
 
@@ -109,9 +98,7 @@ Hi <FIRST_NAME>
     <Sheet open={isOpen} onOpenChange={handleOpenChange}>
       <SheetContent className="overflow-auto">
         <SheetHeader>
-          <SheetTitle>
-            Bulk generate personalized emails
-          </SheetTitle>
+          <SheetTitle>Bulk generate personalized emails</SheetTitle>
         </SheetHeader>
         <div className="grid gap-4 py-4">
           <span className="text-sm text-gray-500">
@@ -136,22 +123,23 @@ Hi <FIRST_NAME>
             className="h-[300px] overflow-y-auto"
           />
 
-          {isBulkEmail && (
-            <div>
-              <span className="whitespace-nowrap">Generate email for </span>
-              {data.map((profile, index) => (
-                <span className="font-bold" key={profile.public_identifier}>
-                  {profile.full_name}
-                  {index < data.length - 1 && ", "}
-                </span>
-              ))}
-            </div>
-          )}
+          <div>
+            <span className="whitespace-nowrap">Generate email for </span>
+            {data.map((profile, index) => (
+              <span className="font-bold" key={profile.public_identifier}>
+                {profile.full_name}
+                {index < data.length - 1 && ", "}
+              </span>
+            ))}
+          </div>
+
           <Button onClick={handleSubmit}>
-            {isLoading ? "Generating..." : (
+            {isLoading ? (
+              "Generating..."
+            ) : (
               <>
                 <Mail className="w-4 h-4" />
-                {isBulkEmail ? "Bulk generate emails" : "Generate email"}
+                <span>Bulk generate emails</span>
               </>
             )}
           </Button>

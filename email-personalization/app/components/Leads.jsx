@@ -124,9 +124,9 @@ export const columns = [
               </Button> */}
             </DropdownMenuItem>
             <DropdownMenuSeparator />
-            <DropdownMenuItem onClick={handleViewDetails}>
+            {/* <DropdownMenuItem onClick={handleViewDetails}>
               <Button variant="outline">View profile details</Button>
-            </DropdownMenuItem>
+            </DropdownMenuItem> */}
           </DropdownMenuContent>
         </DropdownMenu>
       );
@@ -148,7 +148,6 @@ function Leads() {
   const [isDetailsModalOpen, setIsDetailsModalOpen] = useState(false);
   const [isEmailDrawerOpen, setIsEmailDrawerOpen] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
-  const [isBulkEmail, setIsBulkEmail] = useState(false);
   const [generatedEmails, setGeneratedEmails] = useState([]);
 
   const handleSaveRecentLeads = (profiles) => {
@@ -173,7 +172,6 @@ function Leads() {
       const responses = await Promise.all(
         lines.map((line) =>
           fetch(`/api/personProfile?linkedin_profile_url=${line}`),
-          // fetch(`/api/mockPersonProfile?linkedin_profile_url=${line}`),
         ),
       );
 
@@ -209,8 +207,7 @@ function Leads() {
   }, []);
 
   const handleBulkGenerateEmail = () => {
-    // setIsLoading(true);
-    setIsBulkEmail(true);
+    setIsLoading(true);
     setIsEmailDrawerOpen(true);
   };
 
@@ -390,9 +387,7 @@ function Leads() {
         viewDetails={viewDetails}
       />
       <EmailDrawer
-        setIsBulkEmail={setIsBulkEmail}
         data={data}
-        isBulkEmail={isBulkEmail}
         selectedLead={selectedLead}
         setSelectedLead={setSelectedLead}
         isOpen={isEmailDrawerOpen}
